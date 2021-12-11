@@ -4,8 +4,8 @@ Studying Computer Engineering and Learning to code!
 
 <div align>
   <a href="https://github.com/EricZardo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EricZardo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricZardo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EricZardo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricZardo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
