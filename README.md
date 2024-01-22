@@ -1,4 +1,4 @@
 ### Hi, I'm Eric Zardo 👋
 
-Studying Computer Engineering and Learning to code!
+Studying development and learning to code!
 
