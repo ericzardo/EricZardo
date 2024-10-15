@@ -1,9 +1,9 @@
 ## Eric Zardo 👋
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[Link](https://www.linkedin.com/in/eric-zardo-a53630228/): # 'Zardo's LinkedIn'
+[Zardo's LinkedIn](https://www.linkedin.com/in/eric-zardo-a53630228/)
 
-[![LinkedIn]][Link]
+[![LinkedIn]][Zardo's LinkedIn]
 
 ### Web & Software development
 
