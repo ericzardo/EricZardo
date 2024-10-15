@@ -1,9 +1,9 @@
 ## Eric Zardo 👋
 
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-[Link]: # 'Link with example title.'
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[Link](https://www.linkedin.com/in/eric-zardo-a53630228/): # 'Zardo's LinkedIn'
 
-[![Button Example]][Link]
+[![LinkedIn]][Link]
 
 ### Web & Software development
 
