@@ -10,3 +10,5 @@
 
 ### Web & Software development
 
+Software developer passionate about creating amazing experiences.
+With expertise in **React Native** and **Node.js**, my focus is on building efficient and scalable applications. Always looking for new challenges and learning.
