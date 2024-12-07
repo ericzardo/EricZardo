@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 
-### Web & Software development
+### Web Developer
 
-Software developer passionate about creating amazing experiences. <br /> 
-With expertise in **React Native** and **Node.js**, my focus is on building efficient and scalable applications. Always looking for new challenges and learning.
+I am a proactive and challenging person, who likes to go further, constantly seeking opportunities to learn and contribute creatively. <br /> 
+Ready always ready to bring my technical skills to innovative projects.
