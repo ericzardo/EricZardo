@@ -4,8 +4,6 @@
 💻 Full Stack Developer <br>
 ⚡ Automation & API enthusiast <br>
 
-<br>
-
 <a href="https://www.linkedin.com/in/eric-zardo-a53630228/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
